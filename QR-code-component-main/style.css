@@ -1,0 +1,38 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.container {
+    margin: 110px auto auto auto;
+    background-color: hsl(0, 0%, 100%);
+    width: 320px;
+    height: auto;
+    border-radius: 17px;
+}
+
+.container img {
+    width: 300px;
+    height: 300px;
+    margin: 10px 10px 0px 10px;
+    border-radius: 10px;
+}
+
+.texts h3 {
+    text-align: center;
+    padding: 10px 20px 10px 20px;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+    color: hsl(218, 44%, 22%);
+    margin: 10px 0 0 0;
+    font-weight: 700;
+}
+
+.texts p {
+    text-align: center;
+    margin: 0;
+    padding: 10px 20px 30px 20px;
+    letter-spacing: 1px;
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+    font-weight: 400;
+}
